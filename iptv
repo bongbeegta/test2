@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVK.kh" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",TVK (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Qbworldtv" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="Undefined",QBW (1080p) [Not 24/7]
 rtmp://127.0.0.1:1935/live/ilovecambodia
